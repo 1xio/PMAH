@@ -18,6 +18,7 @@ Paquetes Python: tkinter, pymongo, bcrypt
 
 
 Configuración
+
 Instala MongoDB: Asegúrate de tener MongoDB instalado y en ejecución en tu máquina local.
 
 Uso
@@ -29,6 +30,7 @@ Eliminar Contraseña: Ingresa el nombre de usuario y la plataforma para eliminar
 Ver Información Almacenada: Consulta todas las contraseñas almacenadas en una vista tabular.
 
 Contribuciones
+
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para proponer cambios o mejoras.
 
 
