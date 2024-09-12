@@ -21,11 +21,11 @@ Python 3.x,
 MongoDB,
 Paquetes Python: tkinter, pymongo, bcrypt
 
-Configuración ----------------------------------------------------------------------------------------------------------------------
+Configuración -----------------------------------------------------------------------------------------------
 
 Instala MongoDB: Asegúrate de tener MongoDB instalado y en ejecución en tu máquina local.
 
-Uso --------------------------------------------------------------------------------------------------------------------------------
+Uso ---------------------------------------------------------------------------------------------------------
 
 Almacenar Contraseña: Introduce el nombre de usuario, la plataforma y la contraseña para almacenarla.
 
@@ -37,7 +37,7 @@ Eliminar Contraseña: Ingresa el nombre de usuario y la plataforma para eliminar
 
 Ver Información Almacenada: Consulta todas las contraseñas almacenadas en una vista tabular.
 
-Contribuciones ----------------------------------------------------------------------------------------------------------------------
+Contribuciones ------------------------------------------------------------------------------------------------
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para proponer cambios o mejoras.
 
