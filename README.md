@@ -4,9 +4,13 @@ MongoDB para el almacenamiento seguro de credenciales. La aplicación permite al
 Características
 
 Almacenar Contraseñas: Guarda contraseñas de forma segura con hash bcrypt.
+
 Verificar Contraseñas: Comprueba si una contraseña proporcionada coincide con la almacenada.
+
 Actualizar Contraseñas: Permite actualizar una contraseña existente.
+
 Eliminar Contraseñas: Borra una contraseña almacenada para un usuario y plataforma específicos.
+
 Ver Información Almacenada: Muestra todas las contraseñas almacenadas en una vista tabular.
 
 Requisitos
@@ -24,9 +28,13 @@ Instala MongoDB: Asegúrate de tener MongoDB instalado y en ejecución en tu má
 Uso
 
 Almacenar Contraseña: Introduce el nombre de usuario, la plataforma y la contraseña para almacenarla.
+
 Verificar Contraseña: Ingresa el nombre de usuario, la plataforma y la contraseña para verificar su validez.
+
 Actualizar Contraseña: Proporciona el nombre de usuario, la plataforma, la contraseña antigua y la nueva para actualizarla.
+
 Eliminar Contraseña: Ingresa el nombre de usuario y la plataforma para eliminar la contraseña correspondiente.
+
 Ver Información Almacenada: Consulta todas las contraseñas almacenadas en una vista tabular.
 
 Contribuciones
