@@ -11,7 +11,7 @@ Actualizar Contraseñas: Permite actualizar una contraseña existente.
 
 Eliminar Contraseñas: Borra una contraseña almacenada para un usuario y plataforma específicos.
 
-Ver Información Almacenada: Muestra todas las contraseñas almacenadas en una vista tabular.
+Ver Información Almacenada: Muestra todas los usuarios almacenados en una vista tabular.
 
 Requisitos -------------------------------------------------------------------------------------------------------------------------
 
