@@ -14,6 +14,7 @@ Eliminar Contraseñas: Borra una contraseña almacenada para un usuario y plataf
 Ver Información Almacenada: Muestra todas las contraseñas almacenadas en una vista tabular.
 
 Requisitos -------------------------------------------------------------------------------------------------------------------------
+
 Para ejecutar esta aplicación, necesitas:
 
 Python 3.x
