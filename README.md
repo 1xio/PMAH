@@ -17,8 +17,8 @@ Requisitos ---------------------------------------------------------------------
 
 Para ejecutar esta aplicación, necesitas:
 
-Python 3.x
-MongoDB
+Python 3.x,
+MongoDB,
 Paquetes Python: tkinter, pymongo, bcrypt
 
 Configuración ----------------------------------------------------------------------------------------------------------------------
