@@ -1,7 +1,7 @@
 PMAH (Password Manager And Hash Utility) es una aplicación de gestión de contraseñas desarrollada en Python utilizando Tkinter para la interfaz gráfica y 
 MongoDB para el almacenamiento seguro de credenciales. La aplicación permite almacenar, verificar, actualizar y eliminar contraseñas de manera sencilla y segura.
 
-Características -------------------------------------------------------------------------------------------------------------------
+Características -------------------------------------------------------------------------------------
 
 Almacenar Contraseñas: Guarda contraseñas de forma segura con hash bcrypt.
 
@@ -13,7 +13,7 @@ Eliminar Contraseñas: Borra una contraseña almacenada para un usuario y plataf
 
 Ver Información Almacenada: Muestra todas los usuarios almacenados en una vista tabular.
 
-Requisitos -------------------------------------------------------------------------------------------------------------------------
+Requisitos -------------------------------------------------------------------------------------------
 
 Para ejecutar esta aplicación, necesitas:
 
@@ -21,11 +21,11 @@ Python 3.x,
 MongoDB,
 Paquetes Python: tkinter, pymongo, bcrypt
 
-Configuración -----------------------------------------------------------------------------------------------
+Configuración -----------------------------------------------------------------------------------------
 
 Instala MongoDB: Asegúrate de tener MongoDB instalado y en ejecución en tu máquina local.
 
-Uso ---------------------------------------------------------------------------------------------------------
+Uso ---------------------------------------------------------------------------------------------------
 
 Almacenar Contraseña: Introduce el nombre de usuario, la plataforma y la contraseña para almacenarla.
 
@@ -37,7 +37,7 @@ Eliminar Contraseña: Ingresa el nombre de usuario y la plataforma para eliminar
 
 Ver Información Almacenada: Consulta todas las contraseñas almacenadas en una vista tabular.
 
-Contribuciones ------------------------------------------------------------------------------------------------
+Contribuciones -----------------------------------------------------------------------------------------
 
 Las contribuciones son bienvenidas. Por favor, abre un issue o envía un pull request para proponer cambios o mejoras.
 
